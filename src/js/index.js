@@ -11,7 +11,7 @@ const endgifs = [
 
 document.getElementById("elefantito").src = gifs[Math.floor(Math.random() * gifs.length)]
 
-const DATE_TARGET = new Date('04/13/2024 14:00:00')
+const DATE_TARGET = new Date('05/05/2024 12:30:00')
 var MILISECONDS = 1000
 const MINUTE = MILISECONDS * 60
 const HOUR = MINUTE * 60
